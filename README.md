@@ -95,4 +95,4 @@ npm run build
 
 ## Archive note
 
-This private repository is a personal archival mirror of the original team repository. It preserves the collaborative commit history and course materials for portfolio documentation. Any future public portfolio page should continue to credit the full team and describe RunLink as a prototype.
+This public repository is a personal archival mirror of the original team repository. It preserves the collaborative commit history and course materials for portfolio documentation. Any future portfolio page should continue to credit the full team and describe RunLink as a prototype.
